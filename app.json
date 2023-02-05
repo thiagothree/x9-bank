@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "banco-sujeito",
+    "slug": "banco-sujeito",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
