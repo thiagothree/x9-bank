@@ -198,7 +198,7 @@ const styles = StyleSheet.create({
   },
   labelPicker: {
     color: '#ED2590',
-    fontFamily: 'Inter-SemiBold',
+    fontFamily: 'bold',
     marginBottom: 5,
     marginLeft: 30
   },
